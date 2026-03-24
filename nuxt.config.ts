@@ -6,8 +6,7 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
-    '@nuxt/eslint',
-    'dayjs-nuxt',
+    '@nuxt/eslint'
   ],
 
   ssr: false,
